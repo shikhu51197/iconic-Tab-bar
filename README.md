@@ -3,4 +3,4 @@
 ![App Screenshot](https://imgur.com/c3UEtDD.png)
 
                   
-[video.webm]( https://imgur.com/Lvh9c5B.webm)
+![]( https://imgur.com/Lvh9c5B.gif)
